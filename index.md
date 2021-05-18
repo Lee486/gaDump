@@ -1,3 +1,7 @@
+## Update: 5/18
+
+Will update this page to be cleaner and easier to read (eventually) for now. I need a place to host the Demo GA to see what can be hosted where.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Lee486/gaDump/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
